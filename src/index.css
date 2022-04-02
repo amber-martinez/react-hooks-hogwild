@@ -140,6 +140,27 @@ ul {
   clear: both;
 }
 
+#image {
+  float: center;
+  width:  400px;
+  height: 400px;
+  object-fit: cover;
+}
+
+#selectionDiv {
+  padding-bottom: 20px;
+}
+
+#select {
+  padding: 4px;
+}
+
+#sort {
+  padding-bottom: 40px;
+}
+
+
+
 
 @keyframes App-logo-spin {
   from {
